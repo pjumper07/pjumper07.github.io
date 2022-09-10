@@ -1,6 +1,6 @@
 ---
 title: "Welcome"
-date: 10-09-2022 09:00:00 -0500
+date: 2022-09-10 09:00:00 -0500
 categories: [lab]
 tags: [intro, scripts, testing]
 ---
