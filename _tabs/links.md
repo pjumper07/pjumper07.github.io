@@ -1,10 +1,8 @@
 ---
-title: Links
+title: Usefull Links
 icon: fas fa-stream
 order: 5
 ---
-
-# Useful links 
 
 ## DNS Tools
 
