@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
   Azure Dudes Documentation site.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://pjumper07.github.io'
+url: 'https://docs.azuredudes.co.uk'
 
 github:
   username: pjumper07             # change to your github username
@@ -41,7 +41,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Jamie Scott
-  email: docs@azuredudes.co.uk            # change to your email address
+  email: jamiescott@azuredudes.co.uk            # change to your email address
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username      # change to your twitter homepage
