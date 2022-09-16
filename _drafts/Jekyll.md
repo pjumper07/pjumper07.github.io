@@ -6,4 +6,13 @@ tags: [linux, jekyll, blog]
 ---
 
 # Summary 
-How to create a site using Jekyll Site Generator
+How to create a static site using [Jekyll](https://jekyllrb.com) Site Generator.
+
+[Chirpy Theme](https://chirpy.cotes.page)
+[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
+
+## Requirements
+* Debian Linux (lightweight install)
+* SSH Terminal (Putty or Windows Terminal)
+
+## Instructions

@@ -6,3 +6,9 @@ tags: [github, coding, blog]
 ---
 
 # Summary 
+
+## Requirements
+* GitHub account (FREE)
+* Custom domain (Optional if happy to use github.io)
+
+## Instructions
