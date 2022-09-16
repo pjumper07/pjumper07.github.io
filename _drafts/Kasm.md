@@ -2,7 +2,7 @@
 title: "Kasm SSL"
 date: 10-09-2022 14:00
 categories: [Linux]
-tags: [linux, kasm]
+tags: [linux, kasm, ssl]
 ---
 
 

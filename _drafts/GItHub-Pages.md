@@ -6,6 +6,7 @@ tags: [github, coding, blog]
 ---
 
 # Summary 
+How to setup a site using GitHub pages.
 
 ## Requirements
 * GitHub account (FREE)
