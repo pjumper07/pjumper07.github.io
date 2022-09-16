@@ -1,6 +1,6 @@
 ---
 title: "Docker Install & Configure"
-date: 10-09-2022 14:00
+date: 15-09-2022 14:00
 categories: [Docker]
 tags: [linux, docker, install ,config]
 ---
@@ -57,7 +57,17 @@ docker network create name --attachable
 
 ### Docker Images
 
+List docker images
+```shell
+docker image ls
+```
+
 Update a docker image
 ```shell
 docker pull imagename
+```
+
+Remove docker image
+```shell
+docker image rm imagename
 ```
