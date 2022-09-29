@@ -1,8 +1,8 @@
 ---
 title: "Remote PowerShell"
-date: 10-09-2022 14:00
+date: 29-09-2022 14:00
 categories: [Windows]
-tags: [windows, powershell]
+tags: [windows, powershell, scripts]
 ---
 
 

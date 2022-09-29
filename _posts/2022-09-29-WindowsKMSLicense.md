@@ -1,8 +1,8 @@
 ---
-title: "Kasm SSL"
-date: 10-09-2022 14:00
+title: "Windows KMS Licensing"
+date: 29-09-2022 14:00
 categories: [Windows]
-tags: [windows, licensing, server]
+tags: [windows, licensing, server, kms]
 ---
 
 # Summary
